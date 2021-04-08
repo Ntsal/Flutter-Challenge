@@ -8,7 +8,7 @@ This app uses an API to get data and preview it. Your challenge is to build the 
 
 Your task is to build an app that retrieves a list of some music artists from an API. The app has a signup page, a page for showing a list of the artists, the profile for each artist.
 
-API URL: <a href="https://run.mocky.io/v3/4896603c-adcb-4be6-9328-d081553b1fe2" target="_blank">https://run.mocky.io/v3/4896603c-adcb-4be6-9328-d081553b1fe2</a>
+API URL: <a href="https://run.mocky.io/v3/68afe586-0e22-487b-92dc-1a6588a7184c" target="_blank">https://run.mocky.io/v3/68afe586-0e22-487b-92dc-1a6588a7184c</a>
 
 This behaviour should be done in three diffent screens, one for signup, one for list and one for profile of the artist:
 
@@ -38,6 +38,8 @@ You can use any state management tool that you prefer.
 - Notify by email to [joe.kaldas@ntsal.com](mailto:joe.kaldas@ntsal.com) with the link of the Github repo and a list of functionalities you implemented
 
 ### Bonus
+
+API URL: <a href="https://run.mocky.io/v3/aa51022e-ece4-4426-8665-cbe9d2e0e127" target="_blank">https://run.mocky.io/v3/aa51022e-ece4-4426-8665-cbe9d2e0e127</a>
 
 - Add transitions between artist list and artist profile
 - Create a screen for timeline
