@@ -13,11 +13,11 @@ API URL: <a href="https://run.mocky.io/v3/4896603c-adcb-4be6-9328-d081553b1fe2">
 This behaviour should be done in three diffent screens, one for signup, one for list and one for profile of the artist:
 
 <p>
-  <a href="./screens/signup.png"><img src="screens/signup.png" width="300" /></a>
-  <a href="./screens/signup1.png"><img src="./screens/signup1.png" width="300" /> </a>
-  <a href="./screens/artist-list.png"><img src="./screens/artist-list.png" width="300" /></a>
-  <a href="./screens/artist-profile.png"><img src="./screens/artist-profile.png" width="300" /></a>
-  <a href="./screens/artist-profile1.png"><img src="./screens/artist-profile1.png" width="300" /></a>
+  <a href="./screens/signup.png"><img src="screens/signup.png" width="250" /></a>
+  <a href="./screens/signup1.png"><img src="./screens/signup1.png" width="250" /> </a>
+  <a href="./screens/artist-list.png"><img src="./screens/artist-list.png" width="250" /></a>
+  <a href="./screens/artist-profile.png"><img src="./screens/artist-profile.png" width="250" /></a>
+  <a href="./screens/artist-profile1.png"><img src="./screens/artist-profile1.png" width="250" /></a>
 </p>
 
 ### Tasks
@@ -35,7 +35,7 @@ You can use any state management tool that you prefer.
 
 **Once you've finished**
 
-- Notify by email to [joe.kaldas@ntsal.com](joe.kaldas@ntsal.com) with the link of the Github repo and a list of functionalities you implemented
+- Notify by email to [joe.kaldas@ntsal.com](mailto:joe.kaldas@ntsal.com) with the link of the Github repo and a list of functionalities you implemented
 
 ### Bonus
 
@@ -43,4 +43,4 @@ You can use any state management tool that you prefer.
 - Create a screen for timeline
 - Shows schedule by artist and corresponding time
 
-<a href="./screens/timeline.png"><img src="./screens/timeline.png" width="300" /></a>
+<a href="./screens/timeline.png"><img src="./screens/timeline.png" width="250" /></a>
